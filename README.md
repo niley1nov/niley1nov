@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Nilay
+![](assets/Bottom_up.svg)
+
+## Hi there 👋, I'm Nilay
 I'm a software engineer with 4 years of experience specializing in Salesforce, MuleSoft, and AI-driven solutions. As a full-time developer, I dedicate my personal time to creating innovative projects that address real-world problems.
 
 <picture>
@@ -41,5 +43,6 @@ I'm a software engineer with 4 years of experience specializing in Salesforce, M
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niley1nov&show_icons=true&theme=radical)
 
+![](assets/Bottom_down.svg)
 
 
