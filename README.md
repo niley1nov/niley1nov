@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Nilay
 I'm a software engineer with 4 years of experience specializing in Salesforce, MuleSoft, and AI-driven solutions. As a full-time developer, I dedicate my personal time to creating innovative projects that address real-world problems.
 
-
-
 <!--### 🔧 Current Projects
 - **[Agilemind](https://github.com/niley1nov/agilemind)**: Automating project planning with AI, focusing on processing SRS documents and generating project implementation plans. Technologies: Python, AI, Salesforce.
 - **Salesforce Dependency Analyzer**: Analyzing Salesforce code repositories to generate network graphs of class dependencies and required permissions. Technologies: Java, Python, Salesforce.
